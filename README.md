@@ -54,7 +54,7 @@ setTimeout(() => {
 ```
 
 ## Try out the Web App
-[Try Demo Now](https://pokemon-battle-app.vercel.app/)
+[Try Demo Now](https://random-pokemon-battle-gold.vercel.app/)
 
 ## How to Use
 1. Clone the repository:
